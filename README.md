@@ -1,4 +1,4 @@
-# wedget
+# widget
 
 ## Project setup
 ```
